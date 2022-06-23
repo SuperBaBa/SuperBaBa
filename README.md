@@ -3,10 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-EJS      2 mins          ███████████▓░░░░░░░░░░░░░   46.54 %
-Python   2 mins          ██████████▒░░░░░░░░░░░░░░   40.67 %
-Java     0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
